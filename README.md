@@ -1,6 +1,6 @@
-# Blog App Backend
+# Full Stack Blog Application
 
-This project is a simple blog application backend built using Node.js, Express, and a database (SQL or NoSQL). The backend provides a RESTful API for managing blog posts, including creating, retrieving, updating, and deleting posts. The application also includes authentication using JWT (JSON Web Tokens) to secure the API endpoints.
+This project is a full stack blog application built with a Node.js backend and a frontend using React. The application allows users to view, create, and manage blog posts. It includes features such as responsive layout, client-side form validation, and integration with a backend API. The application is deployed to a cloud platform for easy access.
 
 ## Features
 
